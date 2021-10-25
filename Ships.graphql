@@ -1,0 +1,10 @@
+query ShipDetails{
+    ships{
+        id
+        name
+        type
+        image
+        speed_kn
+        year_built
+    }
+}
